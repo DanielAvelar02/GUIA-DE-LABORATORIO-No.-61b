@@ -1,7 +1,3 @@
-/* DATOS PERSONALES
-Nombre: Raúl Enrique Herrera Bernal
-Carnet: HH22035
-Asignatura: TPI 115 */
 const endpoint = 'https://retoolapi.dev/iOvhhb/data'; // API endpoint
 const tbody = document.querySelector('#tbody'); // elemento tbody
 const btnAdd = document.querySelector('#add-btn'); // botón de agregar
